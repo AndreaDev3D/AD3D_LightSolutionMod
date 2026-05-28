@@ -33,5 +33,3 @@ Designed as an add-on for the AD3D base mod (modId 26 on OpenMods) and pairs cle
 - Additional light fixture models (spot, accent, emergency strip).
 
 ---
-
-> Below Zero player? Grab the [Below Zero edition](../Subnautica.BZ) — same feature set, built against the BZ APIs.

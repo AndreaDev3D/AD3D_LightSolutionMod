@@ -33,5 +33,3 @@ Acts as an add-on for the AD3D base mod (modId 26 on OpenMods). Built against cu
 - More fixture variants (spot, accent, emergency strip).
 
 ---
-
-> Playing the original Subnautica instead? Use the [Subnautica edition](../Subnautica.SN) — same kit, ported to the original game's BepInEx stack.
