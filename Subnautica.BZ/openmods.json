@@ -5,6 +5,7 @@
   "supportedGameId": 2,
   "releaseAssets": ["AD3D_LightSolution.BZ.zip"],
   "primaryAsset": "AD3D_LightSolution.BZ.zip",
+  "readme": "README.md",
   "thumbnail": "Screenshot_10.png",
   "media": [
     { "type": "video", "url": "https://youtube.com/shorts/4vQk2nVvaQU?si=vsc6jnt-ZAGDhh29" },
